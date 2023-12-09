@@ -6,6 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikachakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="monikachakraborty" /> </p>
 
+- 🔭 I’m currently working on **crafting seamless MERN stack projects, weaving the magic of ReactJS, NodeJS, and ExpressJS**
+
+- 🌱 I’m currently learning **advanced techniques to elevate the user experience, enhance website displays and functionalities.**
+
+- 👯 I’m looking to collaborate on **innovative web development endeavors, eager to join forces with fellow coders in creating digital wonders.**
+
+- 💬 Ask me about anything **related to MERN stack, React.js, Node.js, or any intriguing tech topics! Always up for a coding discussion and knowledge exchange. 🚀💻**
+  
+- 📫 How to reach me **mchakraborty7516@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/immchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immchakraborty" height="30" width="40" /></a>
