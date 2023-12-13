@@ -1,4 +1,4 @@
-![logo](https://github.com/MonikaChakraborty/MonikaChakraborty/blob/main/github-banner.png)
+![logo](https://github.com/MonikaChakraborty/MonikaChakraborty/blob/main/1702444921050.jpg)
 <h1 align="center">Hi 👋, I'm Monika Chakraborty</h1>
 <h3 align="center">Always learning, always growing 🌱</h3>
 
